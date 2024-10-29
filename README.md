@@ -4,6 +4,8 @@ This project is a web application that allows users to scan their GitHub reposit
 List Repositories: Displays a list of repositories along with their names, sizes, and owners.
 Repository Details: Provides detailed information about a selected repository, including the number of files, content of a YAML file, and active webhooks.
 
+![](https://raw.githubusercontent.com/edridudi/github-scanner/e80491d4b53e729a0871b4e7a110129e7fdbbf17/.github/img.png)
+
 ## Usage
 1. Run the docker-compose.yml File:
     ```bash
